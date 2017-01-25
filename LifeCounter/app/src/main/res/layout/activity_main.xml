@@ -18,7 +18,8 @@
             android:id="@+id/lives1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="20" />
+            android:text="20"
+            android:freezesText="true" />
     </LinearLayout>
     
     <LinearLayout
@@ -70,7 +71,8 @@
             android:id="@+id/lives2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="20" />
+            android:text="20"
+            android:freezesText="true" />
     </LinearLayout>
 
     <LinearLayout
@@ -121,7 +123,8 @@
             android:id="@+id/lives3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="20" />
+            android:text="20"
+            android:freezesText="true" />
     </LinearLayout>
 
     <LinearLayout
@@ -168,7 +171,8 @@
             android:id="@+id/lives4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="20" />
+            android:text="20"
+            android:freezesText="true" />
     </LinearLayout>
 
     <LinearLayout
@@ -215,7 +219,8 @@
             android:background="@color/colorAccent"
             android:textStyle="bold"
             android:textColor="#FFF"
-            android:textAlignment="center" />
+            android:textAlignment="center"
+            android:freezesText="true" />
     </LinearLayout>
 
 </LinearLayout>
